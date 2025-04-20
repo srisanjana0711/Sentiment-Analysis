@@ -82,7 +82,7 @@ This project performs **Sentiment Analysis** on text data using **Deep Learning*
 ### **🧑‍💻 Author**
 👤 **Srisanjana Karunamoorthy**  
 🔗 GitHub: [srisanjana0711](https://github.com/srisanjana0711)  
-🔗 Deployed App: **[Live Demo](https://task-management-tbz6.onrender.com)**  
+
 
 
 
